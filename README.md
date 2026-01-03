@@ -1,0 +1,2 @@
+# wordpress
+Self hosted Wordpress
